@@ -1,5 +1,8 @@
 # custom-avatars
+
 Samples of different avatars you can have in JanusVR
+
+Demo: <https://avatars.hashbase.io/>
 
 ---
 
